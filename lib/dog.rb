@@ -16,4 +16,4 @@ end
 spike = Dog.new
 spike.name = "Spike"
 spike.breed = "Cavalier King Charles Spaniel"
-puts spike.name + spike.breed
+puts spike.name, spike.breed
