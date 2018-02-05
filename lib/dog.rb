@@ -12,3 +12,5 @@ class Dog
     @this_dogs_breed
   end
 end
+
+spike = Dog.new
