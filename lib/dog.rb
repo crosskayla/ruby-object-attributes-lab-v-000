@@ -14,3 +14,5 @@ class Dog
 end
 
 spike = Dog.new
+spike.name = "Spike"
+spike.breed = "Cavalier King Charles Spaniel"
