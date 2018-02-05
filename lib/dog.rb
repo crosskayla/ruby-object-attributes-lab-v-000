@@ -12,8 +12,3 @@ class Dog
     @this_dogs_breed
   end
 end
-
-spike = Dog.new
-spike.name = "Spike"
-spike.breed = "Cavalier King Charles Spaniel"
-puts spike.name, spike.breed
